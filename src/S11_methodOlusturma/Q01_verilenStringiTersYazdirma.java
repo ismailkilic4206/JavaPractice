@@ -1,6 +1,6 @@
 package S11_methodOlusturma;
 
-public class Q01_verilenAraliktakiHarfleriYazdirma {
+public class Q01_verilenStringiTersYazdirma {
     public static void main(String[] args) {
         //Soru 1-verilen bir String ifadeyi ters ceviren bir method olusturun
         String kelime = "cumle";
