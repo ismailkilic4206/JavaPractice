@@ -1,8 +1,6 @@
 package S11_methodOlusturma;
 
-import java.util.Scanner;
-
-public class Q02_stringinIstenenAraliginiYazdirma {
+public class Q02_StringinIstenenAraliginiYazdirma {
     public static void main(String[] args) {
 
         //Soru 1- Input olarak verilen bir String, baslangic ve bitis indexlerine gore
